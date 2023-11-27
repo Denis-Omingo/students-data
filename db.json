@@ -1,0 +1,21 @@
+{
+    "students": [
+      {
+        "id": 2,
+        "name": "Denis Omingo",
+        "admNo": "SCT-254-073/2015",
+        "faculty": "Science and Tech",
+        "course": "Comp sci",
+        "createdAt": "2023-11-19"
+      },
+      
+      {
+        "id": 2,
+        "name": "Richard Nelson",
+        "admNo": "SCT-254-076/2015",
+        "faculty": "Information Technology",
+        "course": "IT",
+        "createdAt": "2023-11-19"
+      }
+    ]
+  }
