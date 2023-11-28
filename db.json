@@ -6,7 +6,8 @@
         "admNo": "SCT-254-073/2015",
         "faculty": "Science and Tech",
         "course": "Comp sci",
-        "createdAt": "2023-11-19"
+        "createdAt": "2023-11-19",
+          "accessToken":"student1"
       },
       
       {
@@ -15,7 +16,8 @@
         "admNo": "SCT-254-076/2015",
         "faculty": "Information Technology",
         "course": "IT",
-        "createdAt": "2023-11-19"
+        "createdAt": "2023-11-19",
+          "accessToken":"student2"
       }
     ]
   }
